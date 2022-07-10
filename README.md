@@ -62,8 +62,12 @@ Here are some ideas to get you started:
     <img src="https://stats.justsong.cn/api/github?username=Overmatch-of-The-Mediterranean">
 </div>
 
-<!-- GitHub streak（GitHub 连续打卡） -->
+
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" />
 </div>
 
+<!-- 贪吃蛇 -->
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/Overmatch-of-The-Mediterranean/Overmatch-of-The-Mediterranean/assets/github-contribution-grid-snake.svg" />
+</div>
