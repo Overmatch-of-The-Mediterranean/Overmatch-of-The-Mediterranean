@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 <!-- 10、打字特效 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20H!%22);头发还有很多，继续加油！！!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20HAIR!%22);头发还有很多，继续加油！！!&center=true&size=27">
   </a>
 </h1>
