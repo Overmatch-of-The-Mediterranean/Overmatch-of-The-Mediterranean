@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 1、Metrics（GitHub 信息统计） -->
-![Metrics](https://metrics.lecoq.io/Overmatch-of-The-Mediterranean?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+<div align="center">
+    <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
+</div>
 
 <!-- 2、GitHub Stats Card（GitHub 统计卡片） -->
 <div align="center">
