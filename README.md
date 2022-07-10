@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 ![A lot of hair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Overmatch-of-The-Mediterranean
 )
 ![Overmatch-of-The-Mediterranean's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Overmatch-of-The-Mediterranean&layout=compact&hide_border=true&langs_count=10)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sun0225SUN)]
+<div align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
