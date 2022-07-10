@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
 </div>
 
-// 7、GitHub Readme Activity Graph （GitHub 活动统计图）
+<!-- 7、GitHub Readme Activity Graph （GitHub 活动统计图） -->
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Overmatch-of-The-Mediterranean&theme=xcode" />
 </div>
