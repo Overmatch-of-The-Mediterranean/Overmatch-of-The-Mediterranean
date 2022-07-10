@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- 1、Metrics（GitHub 信息统计） -->
 <div align="center">
-    <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
+    <img src="https://metrics.lecoq.io/Overmatch-of-The-Mediterranean?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
 <!-- 2、GitHub Stats Card（GitHub 统计卡片） -->
