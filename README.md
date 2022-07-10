@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Metrics](https://metrics.lecoq.io/Overmatch-of-The-Mediterranean?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
-![A lot of hair's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Overmatch-of-The-Mediterranean
-&layout=compact&hide_border=true&langs_count=10)
+[![A lot of hair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Overmatch-of-The-Mediterranean)](https://github.com/anuraghazra/github-readme-stats
