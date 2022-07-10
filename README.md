@@ -55,7 +55,9 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 9、GitHub streak（GitHub 连续打卡） -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" />
+</div>
 
 <!-- 10、打字特效 -->
 <h1 align="center">
