@@ -48,3 +48,21 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Overmatch-of-The-Mediterranean&theme=xcode" />
 </div>
+
+<!-- 8、社交统计 -->
+<div align="center">
+    <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462">
+</div>
+
+<!-- 9、GitHub streak（GitHub 连续打卡） -->
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Overmatch-of-The-Mediterranean
+" />
+</div>
+
+<!-- 10、打字特效 -->
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+  </a>
+</h1>
