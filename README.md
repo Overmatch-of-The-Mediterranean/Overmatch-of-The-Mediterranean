@@ -56,13 +56,13 @@ Here are some ideas to get you started:
 
 <!-- 9、GitHub streak（GitHub 连续打卡） -->
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Overmatch-of-The-Mediterranean
+    <img  src="http://github-readme-streak-stats.herokuapp.com/demo/?user=Overmatch-of-The-Mediterranean
 " />
 </div>
 
 <!-- 10、打字特效 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="http://github-readme-streak-stats.herokuapp.com/demo/?lines=console.log(%22Hello%2C%20H!%22);头发还有很多，继续加油！！!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20H!%22);头发还有很多，继续加油！！!&center=true&size=27">
   </a>
 </h1>
