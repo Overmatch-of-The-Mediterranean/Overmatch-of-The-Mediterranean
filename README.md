@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <!-- 8、社交统计 -->
 <div align="center">
-    <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462">
+    <img src="https://stats.justsong.cn/api/github?username=Overmatch-of-The-Mediterranean">
 </div>
 
 <!-- 9、GitHub streak（GitHub 连续打卡） -->
