@@ -55,10 +55,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 9、GitHub streak（GitHub 连续打卡） -->
-<div align="center">
-    <img  src="http://github-readme-streak-stats.herokuapp.com/demo/?user=Overmatch-of-The-Mediterranean
-" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <!-- 10、打字特效 -->
 <h1 align="center">
