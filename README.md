@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 贪吃蛇 -->
+<img src="" alt="">
 
 <!-- 打字特效 -->
 <h1 align="center">
