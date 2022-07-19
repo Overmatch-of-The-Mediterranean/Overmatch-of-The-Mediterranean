@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 贪吃蛇 -->
-<img src="./assets/github-contribution-grid-snake.svg" alt="">
+<!-- <img src="./assets/github-contribution-grid-snake.svg" alt=""> -->
 
 <!-- 打字特效 -->
 <h1 align="center">
