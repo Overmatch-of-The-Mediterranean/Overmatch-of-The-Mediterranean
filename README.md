@@ -24,10 +24,22 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
+💪 正在学习
+<!--  skill badge 技能徽章 -->
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-47A248?logo=mysql&logoColor=fff&style=flat)
+
+
+
 <!-- Metrics（GitHub 信息统计） -->
-<div align="center">
-    <img src="https://metrics.lecoq.io/Overmatch-of-The-Mediterranean?template=classic&config.timezone=Asia%2FShanghai">
-</div>
+    <!-- <div align="center">
+        <img src="https://metrics.lecoq.io/Overmatch-of-The-Mediterranean?template=classic&config.timezone=Asia%2FShanghai">
+    </div> -->
 
 <!-- GitHub Stats Card（GitHub 统计卡片） -->
 <div align="center">
@@ -60,14 +72,14 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 社交统计 -->
-<div align="center">
-    <img src="https://stats.justsong.cn/api/github?username=Overmatch-of-The-Mediterranean">
-</div>
+    <!-- <div align="center">
+        <img src="https://stats.justsong.cn/api/github?username=Overmatch-of-The-Mediterranean">
+    </div>
 
 <!-- GitHub streak（GitHub 连续打卡） -->
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" />
-</div>
+    <!-- <div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" />
+    </div>
 
 <!-- 贪吃蛇 -->
 <!-- <div align="center">
