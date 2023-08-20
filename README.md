@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![MySQL Badge](https://img.shields.io/badge/MySQL-47A248?logo=mysql&logoColor=#00BFFF&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-00BFFF?logo=mysql&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 
 
