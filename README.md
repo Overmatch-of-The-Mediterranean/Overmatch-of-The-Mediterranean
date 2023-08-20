@@ -42,10 +42,6 @@ Here are some ideas to get you started:
 
 
 
-<!-- Metrics（GitHub 信息统计） -->
-    <!-- <div align="center">
-        <img src="https://metrics.lecoq.io/Overmatch-of-The-Mediterranean?template=classic&config.timezone=Asia%2FShanghai">
-    </div> -->
 
 <!-- GitHub Stats Card（GitHub 统计卡片） -->
 <div align="center">
@@ -60,32 +56,8 @@ Here are some ideas to get you started:
   <img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
-<!-- Shields.io（GitHub 徽章） -->
-<span >
-	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-</span>
 
-<!-- Visitor Badge（GitHub 访客徽章） -->
-<div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
-</div>
 
-<!-- GitHub Readme Activity Graph （GitHub 活动统计图） -->
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Overmatch-of-The-Mediterranean&theme=xcode" />
-</div>
-
-<!-- 社交统计 -->
-    <!-- <div align="center">
-        <img src="https://stats.justsong.cn/api/github?username=Overmatch-of-The-Mediterranean">
-    </div>
-
-<!-- GitHub streak（GitHub 连续打卡） -->
-    <!-- <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" />
-    </div>
 
 <!-- 贪吃蛇 -->
 <!-- <div align="center">
