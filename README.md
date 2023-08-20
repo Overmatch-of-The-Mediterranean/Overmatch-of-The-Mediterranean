@@ -25,7 +25,14 @@ Here are some ideas to get you started:
 </h1>
 
 🧠 专注学习
-
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-00BFFF?logo=mysql&logoColor=fff&style=flat)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+![Webpack Badge](https://img.shields.io/badge/Webpack-87CEFA?logo=webpack&logoColor=fff&style=flat)
 
 💪 已经学习
 <!--  skill badge 技能徽章 -->
@@ -35,10 +42,12 @@ Here are some ideas to get you started:
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Nuxt Badge](https://img.shields.io/badge/Nuxt-3178C6?logo=nuxt&logoColor=fff&style=flat)
-![Next Badge](https://img.shields.io/badge/Next-3178C6?logo=next&logoColor=fff&style=flat)
+![Nuxt.js Badge](https://img.shields.io/badge/Nuxt-3178C6?logo=nuxt&logoColor=fff&style=flat)
+![Next.js Badge](https://img.shields.io/badge/Next-3178C6?logo=next&logoColor=fff&style=flat)
 ![Echarts Badge](https://img.shields.io/badge/Echarts-FF0000?logo=echarts&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![Koa Badge](https://img.shields.io/badge/Koa-393?logo=koa&logoColor=fff&style=flat)
+![Express Badge](https://img.shields.io/badge/Express-393?logo=express&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00BFFF?logo=mysql&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
